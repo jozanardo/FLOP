@@ -13,7 +13,7 @@ Lembre-se, para que tudo funcione da forma correta é necessário fazer o mesmo 
 
 ## 💻 Projeto
 
-Esse projeto foi desenvolvido durante o curso de Engenharia de Software ministrado pela professora Julianna Braga pela Universidade Federal do ABC.
+Esse projeto foi desenvolvido durante o curso de Engenharia de Software ministrado pela professora Juliana Braga pela Universidade Federal do ABC.
 O projeto tem como finalidade localizar um parcerio (duo) para que gamers que estejam interessados em jogar jogos em conjunto se encontrem. Nessa versão é possível incluir anúncios e consultar os mesmos.
 
 ## 🔖 Layout
